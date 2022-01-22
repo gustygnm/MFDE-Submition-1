@@ -17,7 +17,7 @@ Untuk starter project-nya dapat Anda unduh pada repository berikut.
 Terdapat beberapa kriteria utama yang harus Anda penuhi dalam membuat fitur TV Series Ditonton.
 
 
-**1. Kriteria 1: Daftar TV Series**
+**Kriteria 1: Daftar TV Series**
 
 Aplikasi harus menampilkan daftar TV Series populer, top rated, dan yang sedang tayang.
 
@@ -27,7 +27,7 @@ Aplikasi harus menampilkan daftar TV Series populer, top rated, dan yang sedang 
 Referensi: [Gambar](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:aa28177c8e181ceeeb1a4729e9f0c54d20210929161808.png)
 
 
-**2. Kriteria 2: Detail TV Series**
+**Kriteria 2: Detail TV Series**
 
 Aplikasi harus menampilkan detail TV Series berdasarkan item yang dipilih.
 
@@ -37,7 +37,7 @@ Aplikasi harus menampilkan detail TV Series berdasarkan item yang dipilih.
 Referensi: [Gambar](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:61f9c4d20dd598de203556ca73a0700c20210929161852.png)
 
 
-**3. Kriteria 3: Pencarian TV Series**
+**Kriteria 3: Pencarian TV Series**
 
 Terdapat fitur untuk mencari judul TV Series.
 
@@ -46,19 +46,19 @@ Terdapat fitur untuk mencari judul TV Series.
 Referensi: [Gambar](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:a60a129e39dc56d4ecc5b3a839a5d43b20210929161927.png)
 
 
-**4. Kriteria 4: Watchlist**
+**Kriteria 4: Watchlist**
 
 Menambahkan daftar TV series yang ingin ditonton ke dalam suatu daftar yang disimpan secara lokal. Daftar watchlist harus tetap bertahan meskipun aplikasi ditutup dan dibuka kembali.
 
 
-**5. Kriteria 5: Menerapkan Automated Testing**
+**Kriteria 5: Menerapkan Automated Testing**
 
 Fitur yang dikembangkan harus memiliki unit testing dengan minimal testing coverage 70%.
 
 Untuk mengetahui testing coverage aplikasi, Anda dapat mengikuti langkah pada tautan berikut. [Link](https://stackoverflow.com/a/53663093)
 
 
-**6. Kriteria 6: Menerapkan Clean Architecture**
+**Kriteria 6: Menerapkan Clean Architecture**
 
 Aplikasi wajib menerapkan clean architecture dan membagi source code menjadi 3 layer, yaitu:
 
